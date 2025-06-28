@@ -1,7 +1,7 @@
 # Machine-learning-project-using-Python-software
 # 📚 Book Rating Prediction Project
 
-> A machine learning regression project focused on predicting the average rating of books based on their metadata.
+A machine learning regression project focused on predicting the average rating of books based on their metadata.
 
 ## 📌 Project Overview
 
